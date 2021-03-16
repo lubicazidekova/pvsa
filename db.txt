@@ -1,0 +1,2 @@
+set serveroutput on;
+ahoj ako sa máš ?
